@@ -14,18 +14,45 @@
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "twoControls", 
         "Elements", 
-        "inptFirstName.json"
+        "hmbg1.json"
       ]
     }, 
     {
       "!type": "External", 
       "file": [
         "forms", 
-        "membership", 
+        "twoControls", 
         "Elements", 
-        "Button1.json"
+        "pgb1.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "btnNext.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "lblOutput.json"
+      ]
+    }, 
+    {
+      "!type": "External", 
+      "file": [
+        "forms", 
+        "twoControls", 
+        "Elements", 
+        "inptQuestion.json"
       ]
     }
   ], 
@@ -35,7 +62,7 @@
   "expanded_pmp": null, 
   "fullScreen": "true", 
   "height": 460, 
-  "id": "membership", 
+  "id": "twoControls", 
   "language": "JavaScript", 
   "left": "0", 
   "locked": false, 
@@ -49,7 +76,7 @@
   "position": "absolute", 
   "script": null, 
   "scroll_options": "mouseWheel:true, bounce:true, zoom:false", 
-  "scrolling": "false", 
+  "scrolling": "true", 
   "setFocusID": "", 
   "style": "", 
   "theme": "", 
